@@ -1,0 +1,1 @@
+A Movie search app. Just search a movie get it's entire information from just one click.
